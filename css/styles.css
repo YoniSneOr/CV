@@ -104,8 +104,8 @@ ul{
 }
 .technologies-image {
   width: 25% ;
-  float:right;
-  margin-left: 30px ;
+  float:left;
+  margin-right: 30px ;
 }
 .coding-image{
   width: 25%;
@@ -116,7 +116,13 @@ ul{
   width: 25% ;
   float: left;
   margin-right: 30px ;
+  padding-bottom: 30px;
 
+}
+.diploma-image{
+  width: 20% ;
+  float: right;
+  margin-left: 30px ;
 }
 .styled-table {
     border-collapse: collapse;
